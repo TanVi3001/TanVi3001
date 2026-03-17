@@ -9,8 +9,6 @@
 
 <br/>
 
-
-### 🙇🏻 Information
 <br/><br/>
 <img align='right' src="https://github.com/user-attachments/assets/83c23519-b80a-4bfa-9aad-5004939ddfdb" width="360">
 
