@@ -1,65 +1,104 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Lê%20Tấn%20Vĩ&fontSize=70)
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=35&duration=3500&pause=1000&color=6994CDEE&center=true&vCenter=true&width=1000&height=100&lines=Hello,+I'm+Lê+Tấn+Vĩ+👋;A+Data+Analyst+Student+at+UIT" alt="Typing SVG" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=35&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hello,+I'm+Lê+Tấn+Vĩ+👋)](https://git.io/typing-svg)
 
 ### 🙇🏻 Information
+<br/><br/>
+<img align='right' src="https://github.com/user-attachments/assets/83c23519-b80a-4bfa-9aad-5004939ddfdb" width="360">
+![GitHub followers](https://img.shields.io/github/followers/TanVi3001?label=Follow&style=social)
+[![UIT](https://img.shields.io/badge/UIT-Student-blue?style=flat-square)](#)
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td width="60%" style="border: none; vertical-align: top;">
-      <p>
-        <img src="https://img.shields.io/github/followers/TanVi3001?label=Follow&style=social" />
-        <img src="https://img.shields.io/badge/UIT-Student-blue?style=flat-square" />
-      </p>
-      <b>🎯 Core Competencies:</b>
-      <ul>
-        <li><i>Data Analytics / Machine Learning / Computer Vision</i></li>
-        <li><i>Programming (Python, Java, C++)</i></li>
-        <li><i>Database Management (SQL, Oracle)</i></li>
-        <li><i>Logical thinking & Problem Analysis</i></li>
-        <li><i>Teamwork & Sharing Knowledge</i></li>
-      </ul>
-      <p>📬 <b>MSSV:</b> 24521985</p>
-    </td>
-    <td width="40%" style="border: none; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/83c23519-b80a-4bfa-9aad-5004939ddfdb" width="300" style="border-radius: 15px;"/>
-    </td>
-  </tr>
+## 🐍 GitHub Snake
+![snake gif](https://raw.githubusercontent.com/TanVi3001/TanVi3001/output/github-contribution-grid-snake-dark.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanVi3001&layout=compact&theme=vision-friendly-dark)
+
+<p>
+<br/><br/><b>Core Competencies</b>
+ <br/><i>• Data Analytics / Machine Learning / Computer Vision</i>
+ <br/><i>• Programming (Python, Java, C++)</i>
+ <br/><i>• Database Management (SQL, Oracle)</i>
+ <br/><i>• Logical thinking & Problem Analysis</i>
+ <br/><i>• Teamwork & Sharing Knowledge</i>
+ </p>
+<table style="border-collapse: collapse; width: 100%; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; width: 50%;">
+      <a href="#">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanVi3001&theme=react-dark&bg_color=131842&hide_border=true&line=E68369&color=FFF7FC" width="100%"/>
+      </a>
+    </td>
+    <td style="border: none; width: 50%;">
+      <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api?username=TanVi3001&show_icons=true&theme=react&hide_border=true&bg_color=131842" width="100%" style="display: block;" />
+      </a>
+    </td>
+  </tr>
 </table>
 
----
-
-### 📊 Github Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanVi3001&layout=compact&theme=vision-friendly-dark&hide_border=true" height="180px" />
-</p>
-
-<table style="width: 100%; border: none;">
-  <tr style="border: none;">
-    <td style="border: none; width: 50%;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanVi3001&theme=react-dark&bg_color=0d1117&hide_border=true&line=E68369&color=FFF7FC" width="100%"/>
-    </td>
-    <td style="border: none; width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=TanVi3001&show_icons=true&theme=react&hide_border=true&bg_color=0d1117" width="100%" />
-    </td>
-  </tr>
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+### Tools, languages, and other things that I like to work with.
+<br/><br/>
+<table style="background: white">
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
+      </a>
+      <br>Oracle
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="R" />
+      </a>
+      <br>R
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="Machine Learning" />
+      </a>
+      <br>Machine<br>Learning
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="Computer Vision" />
+      </a>
+      <br>Computer<br>Vision
+    </td>
+  </tr>
 </table>
 
----
+<hr>
 
-### 🛠 Favorite Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,oracle,github,r,tensorflow,opencv" />
-</p>
-
----
-
-### 🐍 GitHub Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TanVi3001/TanVi3001/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake gif" />
-</p>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
