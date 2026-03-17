@@ -98,8 +98,12 @@
 </table>
 
 
-## 🐍 GitHub Snake
-![snake gif](https://raw.githubusercontent.com/TanVi3001/TanVi3001/output/github-contribution-grid-snake-dark.svg)
+<h2 align="center">🐍 GitHub Snake</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TanVi3001/TanVi3001/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+<hr>
 
 
 <hr>
