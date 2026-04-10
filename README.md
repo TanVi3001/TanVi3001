@@ -18,7 +18,7 @@
 
 ## 🧠 Information
 
-<img align="right" src="https://github.com/user-attachments/assets/83c23519-b80a-4bfa-9aad-5004939ddfdb" width="360" />
+<img align="right" src="https://github.com/user-attachments/assets/83c23519-b80a-4bfa-9aad-5004939ddfdb" width="400" />
 
 - 👋 Hello, I'm **Lê Tấn Vĩ (TanVi3001)**
 - 🎓 **UIT Student** – Passionate about AI, Data, and real-world ML projects
