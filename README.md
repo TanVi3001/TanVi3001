@@ -112,6 +112,8 @@
   <a href="https://www.facebook.com/vi.tan.7982780/" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-L%C3%AA%20T%E1%BA%A5n%20V%C4%A9-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
+</p>
+<p align="center">
   <a href="https://www.instagram.com/tvi3001/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@tvi3001-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
