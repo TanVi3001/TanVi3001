@@ -14,7 +14,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/TanVi3001?label=Follow&style=social)
 [![UIT](https://img.shields.io/badge/UIT-Student-blue?style=flat-square)](#)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanVi3001&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanVi3001&layout=compact&theme=tokyonight&langs_count=8&hide=html,css&card_width=420)
 
 <p>
 <br/><br/><b>Core Competencies</b>
