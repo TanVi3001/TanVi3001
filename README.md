@@ -106,9 +106,15 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://github.com/TanVi3001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Add%20Your%20Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-Add%20Your%20Link-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://github.com/TanVi3001" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-TanVi3001-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/vi.tan.7982780/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-L%C3%AA%20T%E1%BA%A5n%20V%C4%A9-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/tvi3001/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@tvi3001-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
