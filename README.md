@@ -44,10 +44,23 @@
 
 ---
 
-## 🏆 Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TanVi3001&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TanVi3001&theme=onestar&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 📊 Performance Dashboard
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TanVi3001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanVi3001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&hide=html,css" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TanVi3001&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=00F5FF&color=C9D1D9" />
 </p>
 
 ---
