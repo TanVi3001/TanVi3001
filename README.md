@@ -102,4 +102,57 @@
 
 <hr>
 
+---
+
+## About this profile
+
+I’m building a focused path in **AI, Data Science, and Machine Learning**  
+with a simple principle: **learn deeply, build consistently, improve continuously**.
+
+---
+
+## Current focus
+
+- Machine Learning fundamentals (end-to-end workflow)
+- Model evaluation and practical experimentation
+- Portfolio-ready projects with clear documentation
+
+---
+
+## 2026 Roadmap
+
+- [ ] Complete 10 practical ML projects  
+- [ ] Publish concise technical write-ups  
+- [ ] Learn deployment basics (FastAPI / Streamlit)  
+- [ ] Improve reproducibility and project structure
+
+---
+
+## Workflow
+
+```text
+Understand problem
+→ Prepare data
+→ Build baseline
+→ Evaluate
+→ Optimize
+→ Deploy (basic)
+→ Document learnings
+```
+
+---
+
+## Tools I use
+
+- Python, NumPy, Pandas
+- Scikit-learn, Matplotlib, Seaborn
+- Git, GitHub, VS Code
+
+---
+
+## Personal note
+
+> Keep it simple. Build what matters.
+
+
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&fontSize=90" /> </p>
