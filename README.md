@@ -104,55 +104,61 @@
 
 ---
 
-## About this profile
+## 🌌 NEON // AI LOGBOOK
 
-I’m building a focused path in **AI, Data Science, and Machine Learning**  
-with a simple principle: **learn deeply, build consistently, improve continuously**.
-
----
-
-## Current focus
-
-- Machine Learning fundamentals (end-to-end workflow)
-- Model evaluation and practical experimentation
-- Portfolio-ready projects with clear documentation
-
----
-
-## 2026 Roadmap
-
-- [ ] Complete 10 practical ML projects  
-- [ ] Publish concise technical write-ups  
-- [ ] Learn deployment basics (FastAPI / Streamlit)  
-- [ ] Improve reproducibility and project structure
-
----
-
-## Workflow
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ROLE-AI%20%2F%20DATA%20LEARNER-FF00E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MODE-BUILDING%20THE%20FUTURE-8A2BE2?style=for-the-badge" />
+</p>
 
 ```text
-Understand problem
-→ Prepare data
-→ Build baseline
-→ Evaluate
-→ Optimize
-→ Deploy (basic)
-→ Document learnings
+[BOOT_SEQUENCE]
+✔ Python Core
+✔ Data Analysis
+✔ Machine Learning Basics
+⏳ Deep Learning
+⏳ MLOps + Deployment
 ```
 
 ---
 
-## Tools I use
+## ⚡ CURRENT MISSIONS
 
-- Python, NumPy, Pandas
-- Scikit-learn, Matplotlib, Seaborn
-- Git, GitHub, VS Code
+- 🧠 Train smarter ML models with clean pipelines  
+- 🧪 Improve feature engineering and experiment tracking  
+- 🚀 Turn notebooks into real portfolio projects  
+- 🛰️ Keep shipping projects to GitHub consistently
 
 ---
 
-## Personal note
+## 🕶️ TECH AURA
 
-> Keep it simple. Build what matters.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=00F5FF" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=FF00E5" />
+  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=8A2BE2" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00F5FF" />
+</p>
+
+---
+
+## 🏆 POWER-UP ZONE
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TanVi3001&theme=tokyonight&row=1&column=6&margin-w=12&margin-h=12" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanVi3001&theme=tokyo-night" />
+</p>
+
+---
+
+## 🧬 SYSTEM MOTTO
+
+> “Code in silence. Let results make noise.”
+
 
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&fontSize=90" /> </p>
