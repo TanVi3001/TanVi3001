@@ -15,6 +15,14 @@
   <img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20IMPROVEMENT-00C9A7?style=for-the-badge" alt="Mindset: continuous improvement" />
 </p>
 
+<p align="center">
+  <a href="https://tanvi3001.github.io/">
+    <img src="https://img.shields.io/badge/EXPLORE-MY%20PORTFOLIO-FFC730?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=16140F&amp;labelColor=16140F" alt="Explore my portfolio — Lê Tấn Vĩ" />
+  </a>
+  <br/>
+  <sub>Computer Vision · Time Series · Research — with an interactive 3D neural network</sub>
+</p>
+
 ---
 
 ## 🧠 About Me
