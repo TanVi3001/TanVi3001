@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="80" viewBox="0 0 1000 80" role="img" aria-label="Learning every day, building with purpose">
-  <rect width="1000" height="80" fill="#f6f3ec"/>
-  <path d="M20 16h960" stroke="#16140f" stroke-width="2"/>
-  <rect x="22" y="30" width="26" height="26" rx="4" fill="#ffc730" stroke="#16140f" stroke-width="2"/>
-  <text x="62" y="49" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#16140f">LEARN. BUILD. TEST. REPEAT.</text>
-  <text x="974" y="49" text-anchor="end" font-family="monospace" font-size="13" fill="#5b5346">TanVi3001 / UIT</text>
+  <rect width="1000" height="80" rx="12" fill="#090713"/>
+  <path d="M24 16h952" stroke="#382650"/>
+  <rect x="24" y="31" width="26" height="26" rx="7" fill="#211333" stroke="#9064d8"/>
+  <text x="62" y="50" font-family="Arial,sans-serif" font-size="13" letter-spacing="1.2" fill="#c4b5fd">LEARN. BUILD. TEST. REPEAT.</text>
+  <text x="974" y="50" text-anchor="end" font-family="monospace" font-size="12" fill="#8b7d9f">TanVi3001 / UIT</text>
 </svg>

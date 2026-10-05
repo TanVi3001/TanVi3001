@@ -4,15 +4,15 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Alkatra&amp;weight=600&amp;size=30&amp;duration=2600&amp;pause=800&amp;color=A26BFF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=AI+%7C+Data+Science+%7C+Machine+Learning;Learning+every+day%2C+building+with+purpose;From+data+to+impact+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Alkatra&amp;weight=600&amp;size=30&amp;duration=2600&amp;pause=800&amp;color=C4B5FD&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=AI+%7C+Data+Science+%7C+Machine+Learning;Learning+every+day%2C+building+with+purpose;From+data+to+impact+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-B6EC2C?style=for-the-badge&amp;labelColor=16140F" alt="Status: online" />
-  <img src="https://img.shields.io/badge/ROLE-AI%20%2F%20DATA%20LEARNER-A26BFF?style=for-the-badge&amp;labelColor=16140F" alt="Role: AI and data learner" />
-  <img src="https://img.shields.io/badge/FOCUS-ML%20%2B%20CV-3D8BFF?style=for-the-badge&amp;labelColor=16140F" alt="Focus: machine learning and computer vision" />
-  <img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20IMPROVEMENT-FFC730?style=for-the-badge&amp;labelColor=16140F" alt="Mindset: continuous improvement" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-7C3AED?style=for-the-badge&amp;labelColor=110B1B" alt="Status: online" />
+  <img src="https://img.shields.io/badge/ROLE-AI%20%2F%20DATA%20LEARNER-9B6DFF?style=for-the-badge&amp;labelColor=110B1B" alt="Role: AI and data learner" />
+  <img src="https://img.shields.io/badge/FOCUS-ML%20%2B%20CV-8B5CF6?style=for-the-badge&amp;labelColor=110B1B" alt="Focus: machine learning and computer vision" />
+  <img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20IMPROVEMENT-6D28D9?style=for-the-badge&amp;labelColor=110B1B" alt="Mindset: continuous improvement" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://tanvi3001.github.io/">
-    <img src="https://img.shields.io/badge/EXPLORE-MY%20PORTFOLIO-FFC730?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=16140F&amp;labelColor=16140F" alt="Explore my portfolio — Lê Tấn Vĩ" />
+    <img src="https://img.shields.io/badge/EXPLORE-MY%20PORTFOLIO-8B5CF6?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=FFFFFF&amp;labelColor=110B1B" alt="Explore my portfolio — Lê Tấn Vĩ" />
   </a>
   <br/>
   <sub>Computer Vision · Time Series · Research · Open the portfolio to explore the interactive 3D scene</sub>
@@ -44,8 +44,8 @@
 <br/>
 
 ![GitHub followers](https://img.shields.io/github/followers/TanVi3001?label=Follow&style=social)
-[![UIT](https://img.shields.io/badge/UIT-Student-3D8BFF?style=flat-square)](#)
-[![Profile](https://img.shields.io/badge/Profile-Cyber%20V2-A26BFF?style=flat-square)](#)
+[![UIT](https://img.shields.io/badge/UIT-Student-8B5CF6?style=flat-square)](#)
+[![Profile](https://img.shields.io/badge/Profile-Cyber%20V2-9B6DFF?style=flat-square)](#)
 
 ---
 
@@ -69,12 +69,12 @@
 ## 📊 Performance Dashboard
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TanVi3001&amp;show_icons=true&amp;theme=default&amp;hide_border=false&amp;bg_color=F6F3EC&amp;title_color=16140F&amp;text_color=5B5346&amp;icon_color=A26BFF&amp;border_color=16140F" alt="GitHub statistics for TanVi3001" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TanVi3001&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;bg_color=0D0A18&amp;title_color=C4B5FD&amp;text_color=B9ABC9&amp;icon_color=C4B5FD&amp;border_color=382650" alt="GitHub statistics for TanVi3001" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TanVi3001&amp;theme=default&amp;hide_border=false&amp;background=F6F3EC&amp;ring=FFC730&amp;fire=A26BFF&amp;currStreakLabel=16140F&amp;sideNums=16140F&amp;currStreakNum=16140F&amp;sideLabels=5B5346&amp;dates=5B5346&amp;stroke=16140F" alt="GitHub contribution streak for TanVi3001" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanVi3001&amp;layout=compact&amp;theme=default&amp;bg_color=F6F3EC&amp;title_color=16140F&amp;text_color=5B5346&amp;border_color=16140F&amp;langs_count=8&amp;hide=html,css&amp;card_width=420" alt="Most used languages in public repositories" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TanVi3001&amp;theme=tokyonight&amp;hide_border=false&amp;background=0D0A18&amp;ring=A78BFA&amp;fire=C4B5FD&amp;currStreakLabel=C4B5FD&amp;sideNums=EDE9FE&amp;currStreakNum=EDE9FE&amp;sideLabels=B9ABC9&amp;dates=9484A8&amp;stroke=382650" alt="GitHub contribution streak for TanVi3001" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanVi3001&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0D0A18&amp;title_color=C4B5FD&amp;text_color=B9ABC9&amp;border_color=382650&amp;langs_count=8&amp;hide=html,css&amp;card_width=420" alt="Most used languages in public repositories" />
 </p>
 
 <p align="center">
@@ -86,6 +86,8 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+<img src="assets/stack-heading.svg" width="100%" alt="Programming languages and tools" />
 
 ### Tools, languages, and technologies I enjoy
 
@@ -142,7 +144,7 @@
 ## 💬 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=light" alt="Developer quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Developer quote" />
 </p>
 
 ---
