@@ -1,17 +1,9 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Lê Tấn Vĩ — AI, Data Science, Machine Learning" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Alkatra&amp;weight=600&amp;size=30&amp;duration=2600&amp;pause=800&amp;color=C4B5FD&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=AI+%7C+Data+Science+%7C+Machine+Learning;Learning+every+day%2C+building+with+purpose;From+data+to+impact+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="assets/profile-banner.svg" width="100%" alt="Lê Tấn Vĩ — UIT, Information Systems, AI and data learner" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-7C3AED?style=for-the-badge&amp;labelColor=110B1B" alt="Status: online" />
-  <img src="https://img.shields.io/badge/ROLE-AI%20%2F%20DATA%20LEARNER-9B6DFF?style=for-the-badge&amp;labelColor=110B1B" alt="Role: AI and data learner" />
-  <img src="https://img.shields.io/badge/FOCUS-ML%20%2B%20CV-8B5CF6?style=for-the-badge&amp;labelColor=110B1B" alt="Focus: machine learning and computer vision" />
   <img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20IMPROVEMENT-6D28D9?style=for-the-badge&amp;labelColor=110B1B" alt="Mindset: continuous improvement" />
 </p>
 
@@ -25,8 +17,6 @@
   <a href="https://tanvi3001.github.io/">
     <img src="https://img.shields.io/badge/EXPLORE-MY%20PORTFOLIO-8B5CF6?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=FFFFFF&amp;labelColor=110B1B" alt="Explore my portfolio — Lê Tấn Vĩ" />
   </a>
-  <br/>
-  <sub>Computer Vision · Time Series · Research · Open the portfolio to explore the interactive 3D scene</sub>
 </p>
 
 ---
@@ -35,9 +25,9 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/83c23519-b80a-4bfa-9aad-5004939ddfdb" width="250" alt="Profile illustration" />
 
-- 👋 Hi, I'm **Lê Tấn Vĩ (TanVi3001)**
 - 🎓 **UIT Student** passionate about **AI, Data Science, and real-world ML**
 - 🔬 Main interests: **Machine Learning, Computer Vision, Data Analytics**
+- 🧠 Exploring **Large Language Models (LLMs)** and **Fly Brain / Drosophila brain modeling**
 - 🧩 Strengths: **Problem Solving, Logical Thinking, Team Collaboration**
 - 🚀 Mission: Build useful projects and grow into a strong AI Engineer
 
@@ -86,10 +76,6 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-<img src="assets/stack-heading.svg" width="100%" alt="Programming languages and tools" />
-
-### Tools, languages, and technologies I enjoy
 
 <table>
   <tr>
