@@ -1,0 +1,6 @@
+{
+  "name": "tanvi-github-profile",
+  "private": true,
+  "scripts": { "render": "node scripts/render-neural.cjs" },
+  "devDependencies": { "three": "0.186.1", "playwright": "1.62.1" }
+}
