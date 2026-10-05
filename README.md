@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Lê%20Tấn%20Vĩ&fontSize=48&fontAlignY=35&animation=fadeIn&fontColor=ffffff&color=0:0f2027,50:1f4068,100:00c6ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=190&amp;text=L%C3%AA%20T%E1%BA%A5n%20V%C4%A9&amp;fontSize=48&amp;fontAlignY=35&amp;animation=fadeIn&amp;fontColor=ffffff&amp;color=0:0f2027,50:1f4068,100:00c6ff" alt="Lê Tấn Vĩ — GitHub profile" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=30&duration=2600&pause=800&color=7DF9FF&center=true&vCenter=true&width=1000&lines=AI+%7C+Data+Science+%7C+Machine+Learning;Learning+every+day%2C+building+with+purpose;From+data+to+impact+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Alkatra&amp;weight=600&amp;size=30&amp;duration=2600&amp;pause=800&amp;color=7DF9FF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=AI+%7C+Data+Science+%7C+Machine+Learning;Learning+every+day%2C+building+with+purpose;From+data+to+impact+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ROLE-AI%20%2F%20DATA%20LEARNER-7B2FF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FOCUS-ML%20%2B%20CV-FF3CAC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20IMPROVEMENT-00C9A7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge" alt="Status: online" />
+  <img src="https://img.shields.io/badge/ROLE-AI%20%2F%20DATA%20LEARNER-7B2FF7?style=for-the-badge" alt="Role: AI and data learner" />
+  <img src="https://img.shields.io/badge/FOCUS-ML%20%2B%20CV-FF3CAC?style=for-the-badge" alt="Focus: machine learning and computer vision" />
+  <img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20IMPROVEMENT-00C9A7?style=for-the-badge" alt="Mindset: continuous improvement" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-<img align="right" src="https://github.com/user-attachments/assets/83c23519-b80a-4bfa-9aad-5004939ddfdb" width="330" />
+<img align="right" src="https://github.com/user-attachments/assets/83c23519-b80a-4bfa-9aad-5004939ddfdb" width="330" alt="Profile illustration" />
 
 - 👋 Hi, I'm **Lê Tấn Vĩ (TanVi3001)**
 - 🎓 **UIT Student** passionate about **AI, Data Science, and real-world ML**
@@ -47,7 +47,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TanVi3001&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=TanVi3001&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=10&amp;margin-h=10" alt="GitHub trophies for TanVi3001" />
 </p>
 
 ---
@@ -55,13 +55,16 @@
 ## 📊 Performance Dashboard
 
 <p align="center">
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=TanVi3001&theme=react-dark&bg_color=0D1117&hide_border=true&line=00F5FF&color=C9D1D9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TanVi3001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TanVi3001&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="GitHub statistics for TanVi3001" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TanVi3001&theme=tokyonight&hide_border=true&background=0D1117" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanVi3001&layout=compact&theme=tokyonight&langs_count=8&hide=html,css&card_width=420" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TanVi3001&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" alt="GitHub contribution streak for TanVi3001" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanVi3001&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=8&amp;hide=html,css&amp;card_width=420" alt="Most used languages in public repositories" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/TanVi3001?tab=overview">View contribution activity on GitHub</a>
 </p>
 
 ---
@@ -98,7 +101,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TanVi3001/TanVi3001/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/TanVi3001/TanVi3001/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution graph for TanVi3001" />
 </p>
 
 ---
@@ -107,16 +110,16 @@
 
 <p align="center">
   <a href="https://github.com/TanVi3001" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@TanVi3001-181717?style=flat-square&logo=github&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@TanVi3001-181717?style=flat-square&amp;logo=github&amp;logoColor=white" />
   </a>
   <a href="https://www.facebook.com/vi.tan.7982780/" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-L%C3%AA%20T%E1%BA%A5n%20V%C4%A9-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-L%C3%AA%20T%E1%BA%A5n%20V%C4%A9-1877F2?style=flat-square&amp;logo=facebook&amp;logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.instagram.com/tvi3001/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@tvi3001-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@tvi3001-E4405F?style=flat-square&amp;logo=instagram&amp;logoColor=white" />
   </a>
 </p>
 
@@ -125,7 +128,7 @@
 ## 💬 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Developer quote" />
 </p>
 
 ---
@@ -137,5 +140,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:1f4068,100:00c6ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:0f2027,50:1f4068,100:00c6ff" alt="" />
 </p>
+
