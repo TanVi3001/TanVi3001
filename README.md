@@ -1,16 +1,12 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Lê Tấn Vĩ — UIT, Information Systems, AI and data learner" />
+  <a href="https://tanvi3001.github.io/">
+    <img src="assets/neural-hero.svg" width="100%" alt="From data to impact. — Animated neural network with forward passes and backpropagation. Open Lê Tấn Vĩ's portfolio." />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-7C3AED?style=for-the-badge&amp;labelColor=110B1B" alt="Status: online" />
   <img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20IMPROVEMENT-6D28D9?style=for-the-badge&amp;labelColor=110B1B" alt="Mindset: continuous improvement" />
-</p>
-
-<p align="center">
-  <a href="https://tanvi3001.github.io/">
-    <img src="assets/neural-field.gif" width="100%" alt="Animated 3D neural network: signals moving through connected layers. Open the portfolio for the interactive scene." />
-  </a>
 </p>
 
 <p align="center">
@@ -144,4 +140,3 @@
 <p align="center">
   <img src="assets/profile-footer.svg" width="100%" alt="Learn. Build. Test. Repeat. — TanVi3001 / UIT" />
 </p>
-
