@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tanvi3001.github.io/">
-    <img src="assets/neural-hero.svg" width="100%" alt="From data to impact. — Animated neural network with forward passes and backpropagation. Open Lê Tấn Vĩ's portfolio." />
+    <img src="assets/neural-hero.svg" width="100%" alt="From data to impact. — Animated five-layer 3D neural network with signal flow and a loss landscape. Open the interactive AI portfolio." />
   </a>
 </p>
 
